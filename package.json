@@ -9,6 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tanstack/react-devtools": "^0.10.13",
+    "@tanstack/react-form": "^1.33.5",
+    "@tanstack/react-form-devtools": "^0.2.34",
+    "@tanstack/react-form-nextjs": "^1.33.5",
+    "@tanstack/react-form-remix": "^1.33.5",
+    "@tanstack/react-form-start": "^1.33.5",
     "next": "16.4.2",
     "react": "19.3.0",
     "react-dom": "19.3.0"
